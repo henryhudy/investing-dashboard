@@ -9,3 +9,9 @@ __pycache__/
 .vscode/
 # Mac system files
 .DS_Store
+
+secrets
+secrets.toml
+streamlit_secrets
+streamlit_secrets.toml
+.streamlit/secrets.toml
