@@ -1,0 +1,11 @@
+# Ignore credentials and secrets
+credentials.json
+.env
+streamlit_secrets.toml
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+# VSCode settings
+.vscode/
+# Mac system files
+.DS_Store
